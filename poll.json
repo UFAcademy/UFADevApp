@@ -1,0 +1,19 @@
+{
+	"polls": [
+		{
+			"id": 0,
+			"title": "First Poll",
+			"description": "This is the description for this poll",
+			"options": ["first", "middle", "third"],
+			"completed": false
+		},
+		{
+			"id": 1,
+			"title": "Second Poll",
+			"description": "This a the description for poll 2",
+			"options": ["one", "two", "three"],
+			"completed": false
+		}
+	]
+
+}
